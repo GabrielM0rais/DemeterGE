@@ -1,5 +1,9 @@
-Projeto pessoal feito para ser um programa desktop
-basico para estoque.
+# Projeto Pessoal
+Projeto iniciado com intuito de aprendizado de bancos de dados e ligação continua com linguagens.
 
-DeméterGE é basicamente um controle simples de estoque
-iniciado com a ideia principal de ampliar conhecimentos.
+### Resumo do projeto
+Feito para servrir primariamente como um gerenciador de estoque com funcinalidades basicas.
+
+#
+Autor: Gabriel Morais
+#
